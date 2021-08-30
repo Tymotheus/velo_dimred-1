@@ -25,7 +25,18 @@ https://www.researchgate.net/publication/336417452_Analysis_and_machine_learning
 
 # Presentation
 Part of the project, concerning Autoencoders and PCA, was presented
-by Tymoteusz Ciesielski and Paweł Drabczyk on ICPS 2021 International Physics Conference in Copenhagen.
+by Tymoteusz Ciesielski and Paweł Drabczyk on ICPS 2021 International Conference of Physics Students in Copenhagen.
 Below you can find the slides.
 
 ![](ICPS_2021_presentation/ICPS%202021.jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(1).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(2).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(3).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(4).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(5).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(6).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(7).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(8).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(9).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(10).jpg)
+![](ICPS_2021_presentation/ICPS%202021%20(11).jpg)
