@@ -28,4 +28,4 @@ Part of the project, concerning Autoencoders and PCA, was presented
 by Tymoteusz Ciesielski and Paweł Drabczyk on ICPS 2021 International Physics Conference in Copenhagen.
 Below you can find the slides.
 
-![](ICPS_2021_presentation/ICPS 2021.jpg)
+![](ICPS_2021_presentation/ICPS%202021.jpg)
