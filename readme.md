@@ -11,7 +11,7 @@ conda install -c plotly plotly-orca
 
 conda develop /home/pawel/PycharmProjects/calina
 
-Run .envrc with `source .envrc` to add calina 
+Run .envrc with `source .envrc` to add calina
 path from this repository:
 https://gitlab.cern.ch/mmajewsk/calina
 
@@ -22,3 +22,10 @@ https://gitlab.cern.ch/mmajewsk/calina
 https://misio.fis.agh.edu.pl/media/misiofiles/c54f16de7751c4a8525e63c45120c17d.pdf
 https://github.com/Czerwooonka/pracaMagisterska_WizualizacjaDanych
 https://www.researchgate.net/publication/336417452_Analysis_and_machine_learning_anomaly_detection_of_the_VELO-LHCb_calibration
+
+# Presentation
+Part of the project, concerning Autoencoders and PCA, was presented
+by Tymoteusz Ciesielski and Paweł Drabczyk on ICPS 2021 International Physics Conference in Copenhagen.
+Below you can find the slides.
+
+![](ICPS_2021_presentation/ICPS 2021.jpg)
